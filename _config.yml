@@ -103,9 +103,7 @@ theme: keep
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
-- type: baidu_url_submitter  
+  type: baidu_url_submitter  
 
 # 百度自动推送
 baidu_url_submit:
