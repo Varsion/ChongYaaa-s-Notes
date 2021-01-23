@@ -37,10 +37,15 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: /images/bg.svg
-    #https://blog.varsion.cn/wp-content/uploads/2020/10/%E3%81%A8%E3%81%86%E3%82%81%E3%81%84%E3%81%AA%E5%A4%8F_84137002_p1-2048x1152.jpg   
+    background_img: /images/bg.svg 
     # You can use local image or image external link
-    description: 一片森林中分出两条路,而我选择了人迹更少的那一条,从而决定我一生的道路
+
+    description:  不必太纠结于当下
+                  也不必太忧虑未来
+                  当经历过一些事情的时候
+                  眼前的风景已经和从前不一样了
+
+    # 一片森林中分出两条路,而我选择了人迹更少的那一条,从而决定我一生的道路
 
 
   # Scroll style settings
