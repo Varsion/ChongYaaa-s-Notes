@@ -15,10 +15,10 @@ style:
   primary_color: '#0066CC'
 
   # Avatar (You can use local image or image external link)
-  avatar: /images/avatar.svg
+  avatar: /images/author.png
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /images/logo.jpg
 
   # Article image align position, value: left | center
   article_img_align: center
@@ -38,7 +38,8 @@ style:
   first_screen:
     enable: true
     background_img: /images/bg.svg
-    #https://blog.varsion.cn/wp-content/uploads/2020/10/%E3%81%A8%E3%81%86%E3%82%81%E3%81%84%E3%81%AA%E5%A4%8F_84137002_p1-2048x1152.jpg   # You can use local image or image external link
+    #https://blog.varsion.cn/wp-content/uploads/2020/10/%E3%81%A8%E3%81%86%E3%82%81%E3%81%84%E3%81%AA%E5%A4%8F_84137002_p1-2048x1152.jpg   
+    # You can use local image or image external link
     description: 一片森林中分出两条路,而我选择了人迹更少的那一条,从而决定我一生的道路
 
 
@@ -75,7 +76,7 @@ menu:
   # Categories: /categories
   # Tags: /tags
   # Links: /links
-  # About: /about
+  About: /about
   # Changelog: /changelog
   # ......
 
@@ -96,7 +97,7 @@ home_article:
 # Code copy
 # ---------------------------------------------------------------------------------------
 code_copy:
-  enable: false
+  enable: true
   style: default        # values: default | mac
 
 
@@ -104,7 +105,7 @@ code_copy:
 # Table of Contents in the Sidebar
 # ---------------------------------------------------------------------------------------
 toc:
-  enable: false
+  enable: true
 
   # Automatically add list number to toc.
   number: false
@@ -126,9 +127,9 @@ copyright_info:
 # See: https://github.com/willin/hexo-wordcount
 # ---------------------------------------------------------------------------------------
 post_wordcount:
-  enable: false
-  wordcount: false  # word count, one article
-  min2read: false   # time to read, one article
+  enable: true
+  wordcount: true  # word count, one article
+  min2read: true   # time to read, one article
 
 
 # ---------------------------------------------------------------------------------------
@@ -150,8 +151,10 @@ website_count:
 # See: https://github.com/theme-next/hexo-generator-searchdb
 # ---------------------------------------------------------------------------------------
 local_search:
-  enable: false
-  preload: false     # Preload the search data when the page loads
+  enable: true
+  trigger: auto
+  unescape: false
+  preload: true
 
 
 # ---------------------------------------------------------------------------------------
@@ -196,7 +199,7 @@ rss:
 # Lazyload image
 # ---------------------------------------------------------------------------------------
 lazyload:
-  enable: false
+  enable: true
 
 
 # ---------------------------------------------------------------------------------------
@@ -217,7 +220,7 @@ pjax:
 # Footer settings
 # ---------------------------------------------------------------------------------------
 footer:
-  since: 2020
+  since: 2019
 
 
 # ---------------------------------------------------------------------------------------

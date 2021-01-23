@@ -8,7 +8,7 @@ subtitle: ''
 description: '这里是充鸭'
 keywords:
 author: Varsion
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
@@ -104,9 +104,3 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-  # First screen
-  first_screen:
-    enable: true
-    background_img: /images/img.jpg   # You can use local image or image external link
-    description: Keep writing and Keep loving.
