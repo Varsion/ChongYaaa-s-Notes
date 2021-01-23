@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: 充鸭的手札
+  title: ChongYaaa's Notes
   author: Varsion
-  url: https://Varsion.cn/
+  url: https://blog.varsion.cn/
 
 
 # ---------------------------------------------------------------------------------------
@@ -70,7 +70,7 @@ social_contact:
     zhihu:           # your ZhiHu URL
     twitter:         https://twitter.com/Varsion2
     facebook:        # your facebook URL
-    email:           # your email
+    email:           JianhuaL12@outlook.com
     telegram:        https://t.me/cynight
 
 # ---------------------------------------------------------------------------------------
@@ -80,7 +80,7 @@ menu:
   Home: /
   Archives: /archives
   # Categories: /categories
-  # Tags: /tags
+  Tags: /tags
   # Links: /links
   About: /about
   # Changelog: /changelog
