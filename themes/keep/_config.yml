@@ -18,7 +18,7 @@ style:
   avatar: /images/author.png
 
   # Favicon (You can use local image or image external link)
-  favicon: https:img.varsion.cn/blog-img/20210124144547.png
+  favicon: https://img.varsion.cn/blog-img/20210124144547.png
   # /images/Donuts.png
 
   # Article image align position, value: left | center
