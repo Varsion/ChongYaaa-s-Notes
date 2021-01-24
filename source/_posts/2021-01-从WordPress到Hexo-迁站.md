@@ -1,12 +1,14 @@
 ---
 title: 从WordPress到Hexo-迁站
-date: 2021-01-24 09:34:32
+id: '12010110'
 tags:
   - Hexo
   - WordPress
   - 迁站
 categories:
   - - Developer
+abbrlink: 38056
+date: 2021-01-24 09:34:32
 ---
 
 # 从 WordPress 到 Hexo

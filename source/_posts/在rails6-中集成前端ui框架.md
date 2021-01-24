@@ -7,6 +7,7 @@ id: '1754'
 categories:
   - - Ruby
   - - Ruby on Rails
+abbrlink: 775c5c69
 date: 2020-12-19 19:48:42
 ---
 

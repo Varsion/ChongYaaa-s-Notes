@@ -6,6 +6,7 @@ tags:
 id: '959'
 categories:
   - - Ruby
+abbrlink: 63d9b99f
 date: 2020-10-07 10:48:18
 ---
 

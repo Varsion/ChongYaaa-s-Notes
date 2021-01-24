@@ -8,6 +8,7 @@ id: '1812'
 categories:
   - - Ruby
   - - Ruby on Rails
+abbrlink: 6052f971
 date: 2021-01-04 09:58:10
 ---
 

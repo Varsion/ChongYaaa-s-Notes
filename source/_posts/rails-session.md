@@ -6,6 +6,7 @@ tags:
 id: '1655'
 categories:
   - - Ruby on Rails
+abbrlink: 87da06ec
 date: 2020-11-11 10:17:30
 ---
 
