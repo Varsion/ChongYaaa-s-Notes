@@ -32,7 +32,7 @@ style:
   # Mouse hover
   hover:
     shadow: false   # shadow effect when the mouse hover
-    scale: false    # scale effect when the mouse hover
+    scale: true    # scale effect when the mouse hover
 
   # First screen
   first_screen:
@@ -124,7 +124,7 @@ toc:
 # Post copyright info
 # ---------------------------------------------------------------------------------------
 copyright_info:
-  enable: false
+  enable: true
 
 
 # ---------------------------------------------------------------------------------------
@@ -178,11 +178,11 @@ comment:
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
-    enable: false
-    github_id:             # GitHub repo owner
-    repository:            # Repository name to store issues
-    client_id:             # GitHub Application Client ID
-    client_secret:         # GitHub Application Client Secret
+    enable: true
+    github_id:         Varsion    # GitHub repo owner
+    repository:        blog-varsion-cn-Comments    # Repository name to store issues
+    client_id:         bac52f406705e1aad6e8   # GitHub Application Client ID
+    client_secret:     cb07dace88386986bdb7aeaadcabcecf88b3dd8e    # GitHub Application Client Secret
 
   # Twikoo
   # See: https://github.com/imaegoo/twikoo
