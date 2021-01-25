@@ -1,16 +1,15 @@
 ---
-title: 从WordPress到Hexo-迁站
-id: '12010110'
+title: 从Wordpress到Hexo
+keywords: 'Hexo,WordPress,迁移'
+categories:
+  - - Developer
 tags:
   - Hexo
   - WordPress
   - 迁站
-categories:
-  - - Developer
-keywords:Hexo,WordPress,站点迁移
-date: 2021-01-24 09:34:32
+abbrlink: 388198b9
+date: 2021-01-25 10:41:26
 ---
-
 # 从 WordPress 到 Hexo
 
 > 之前是一直有在用 `WordPress` ，建站、可视化编辑还有网站访问量包括对一些IP的记录对于博客管理来说很方便，但是前些时间因为 WordPress 和 一些插件总是一直在提示更新，更新之后又会莫名的失败导致网站短时间内崩溃，于是就有准备将博客迁移到 Hexo 来。
