@@ -23,7 +23,7 @@ date: 2020-09-18 13:36:49
 
 ### Fork
 
-需要点击右上角的 forl 按钮，将主仓库的代码 fork 到自己的仓库中。
+需要点击右上角的 fork 按钮，将主仓库的代码 fork 到自己的仓库中。
 
 ![](http://img.varsion.cn/blog-img/2020/09/image-19.png)
 
@@ -104,8 +104,8 @@ git pust origin develop # 第一次执行时会提示填写用户名和密码
 
 ```
 这里放上Github链接：欢迎大家的关注和Star
-[CoderTH](https://github.com/coderTH)
-[Varsion](https://github.com/Varsion)
+[汤汤 - CoderTH](https://github.com/coderTH)
+[小梁 - Varsion](https://github.com/Varsion)
 ```
 
 * * *
