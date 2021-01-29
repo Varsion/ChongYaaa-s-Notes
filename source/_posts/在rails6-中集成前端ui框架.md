@@ -66,9 +66,11 @@ environment.plugins.prepend('Provide',
 
 ![](http://img.varsion.cn/blog-img/2020/12/image-22.png)
 
-找了很久的解决办法，是将本地资源引用切换成网络资源，可以解决问题，但是初次加载页面会很慢，或者感觉可以将字体文件放在public目录中的相应位置，也可以解决。
-
 修改 node_modules/amazeui/dist/css/amazeui.css 文件中的部分。
+
+目前的解决办法是将本地资源引用切换成网络资源，可以解决问题，但是初次加载页面会很慢
+
+或者应该可以将字体文件放在public目录中的相应位置，也可以解决。
 
 也只是简单的把文件的url替换了，是在 AmazeUI 的 [issue](https://github.com/amazeui/amazeui/issues/277) 里找到的 CDN 加速网站，的确是搜了好久都没有这几个文件的 CDN资源。
 
