@@ -102,10 +102,11 @@ git pust origin develop # 第一次执行时会提示填写用户名和密码
 
 当然我们也可以把 develop 分支命名为 demo 分支，或者其他好听的名字。但是其意义是不变的。
 
-```
-这里放上Github链接：欢迎大家的关注和Star
+
+这里放上我们俩的Github链接：欢迎大家的Follow和Star
+
 [汤汤 - CoderTH](https://github.com/coderTH)
 [小梁 - Varsion](https://github.com/Varsion)
-```
+
 
 * * *

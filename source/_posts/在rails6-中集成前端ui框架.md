@@ -66,7 +66,7 @@ environment.plugins.prepend('Provide',
 
 ![](http://img.varsion.cn/blog-img/2020/12/image-22.png)
 
-找了很久的解决办法，是将本地资源引用切换成网络资源，可以解决问题，但是初次加载页面会很慢（实际使用的时候，可能要在服务器端做个资源映射吧，明明资源就在哪里，就是引用不到，很烦。
+找了很久的解决办法，是将本地资源引用切换成网络资源，可以解决问题，但是初次加载页面会很慢，或者感觉可以将字体文件放在public目录中的相应位置，也可以解决。
 
 修改 node_modules/amazeui/dist/css/amazeui.css 文件中的部分。
 
