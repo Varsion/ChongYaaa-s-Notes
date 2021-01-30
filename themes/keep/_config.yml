@@ -80,7 +80,7 @@ social_contact:
 menu:
   Home: /
   Archives: /archives
-  # Categories: /categories
+  Categories: /category
   Tags: /tags
   # Links: /links
   About: /about
