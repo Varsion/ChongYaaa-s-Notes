@@ -12,6 +12,8 @@ categories:
 
 # BM算法和KMP算法的Ruby实现
 
+具体实现的代码放在了我的github上 [Ruby_Algorithm/String_Match at master · Varsion/Ruby_Algorithm (github.com)](https://github.com/Varsion/Ruby_Algorithm/tree/master/String_Match)
+
 ## BM算法
 
 全称为 `Boyer-Moore` 算法，其核心思想是利用模式串本身的特点，在模式串中某个字符与主串不能匹配时，将模式串多向后滑动几位，一次来减少不必要的字符比较时间，提高匹配效率。
