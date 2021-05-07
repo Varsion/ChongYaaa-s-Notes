@@ -2,11 +2,11 @@
 title: about
 date: 2021-01-23 10:05:35
 ---
-<a href="https://github.com/Varsion?tab=repositories">
+
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Varsion&show_icons=true" width="45%" />
 
-</a>
+
 
 
 
